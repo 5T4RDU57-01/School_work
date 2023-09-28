@@ -1,0 +1,2 @@
+Using pseudo code or otherwise, write an algorithm which will accept ten numbers and print out the
+smallest number.

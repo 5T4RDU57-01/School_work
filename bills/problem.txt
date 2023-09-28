@@ -1,0 +1,7 @@
+Wages at Microsoft are paid using $ 20 and $ 10 bank notes.
+Write an algorithm which will:
+• Input a request for a sum of money
+• Only accept a sum of money which is multiple of 10
+• Output the number of $20 notes required
+• Output the number of $ 10 notes required.
+The total number of notes should be minimum

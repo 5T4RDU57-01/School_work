@@ -1,0 +1,2 @@
+Using pseudocode or otherwise, write an algorithm which will input any three different numbers and
+then print them out in ascending order.
