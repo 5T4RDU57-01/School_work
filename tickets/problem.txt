@@ -1,0 +1,9 @@
+The rail network consists of 10 stations. The fare between each station is $2. There is a 10% discount when 3 or more passengers travel together. T
+ickets can be purchased at any station using automated terminals.
+
+Using pseudocode, or otherwise, write an algorithm for the automated terminals to:
+
+• input the starting station number, the destination station number and the number of passengers
+• calculate the total fare and output the amount to be paid
+• calculate the change (if any)
+• issue the rail ticket(s) and change [3]
